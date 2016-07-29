@@ -1,0 +1,15 @@
+export(axis10exp,
+       findNearest,
+       gradient,
+       lls,
+       logLines,
+       logPlot,
+       logPoints,
+       makeFigure,
+       closeFigure,
+       movingAverage,
+       objectSize,
+       plotCircle,
+       symLim)
+
+

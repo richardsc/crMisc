@@ -1,0 +1,11 @@
+Package: cr
+Type: Package
+Title: Miscellaneous scripts for Clark Richards
+Depends: oce
+Version: 0.1
+Date: 2016-07-30
+Author: Clark Richards
+Maintainer: <clark.richards@gmail.com>
+Description: Miscellaneous scripts for Clark Richards
+License: GPL-2
+LazyLoad: yes
